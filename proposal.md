@@ -5,8 +5,8 @@
 * legajo - Apellido(s), Nombre(s)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/leonbennazar/tp-dsw-frontend)
+* [backend app](https://github.com/leonbennazar/tp-dsw-backend)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
@@ -49,4 +49,3 @@ Adicionales para Aprobación
 |Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
 |CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
 |Otros|1. Envío de recordatorio de reserva por email|
-
