@@ -15,7 +15,7 @@
 [NOMBRE DE APP] es un sistema para gestionar reservas de canchas de fútbol. Solamente tenés que registrar un usuario con tu mail para empezar a reservar. Elegís la fecha, la hora y la cancha que más te guste [y pagar la seña para confirmar la reserva]. Nosotros te recordamos cuando te toca jugar!
 
 ### Modelo
-[imagen del modelo](https://drive.google.com/file/d/1B_XXn6uLUYE9IYtGiJ_Q2tqKOh1vT_ZC/view?usp=sharing)
+[imagen del modelo](https://drive.google.com/file/d/19J_GxwOCaQrY7lHyC7FywsqQRErUPTKy/view?usp=sharing)
 
 ## Alcance Funcional 
 
